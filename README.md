@@ -1,2 +1,2 @@
 # renanmfurlaneto.github.io
-theme: jglovier/resume-template
+remote-theme: jglovier/resume-template
